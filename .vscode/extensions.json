@@ -1,7 +1,8 @@
 {
-    "recommendations":[
+    "recommendations": [
         "golang.Go",
         "PKief.material-icon-theme",
-        "miguelsolorio.fluent-icons"
+        "miguelsolorio.fluent-icons",
+        "ritwickdey.LiveServer"
     ]
 }
