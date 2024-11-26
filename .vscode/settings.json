@@ -4,5 +4,6 @@
     "editor.formatOnSave": true,
     "terminal.integrated.fontFamily": "'JetBrains Mono'",
     "terminal.integrated.fontSize": 16,
-    "terminal.integrated.lineHeight": 1
+    "terminal.integrated.lineHeight": 1,
+    "explorer.compactFolders": false
 }
