@@ -1,0 +1,12 @@
+{
+    "Create Main": {
+        "scope": "go",
+        "prefix": "main",
+        "body": [
+            "func main(){",
+            "\t$0",
+            "}"
+        ],
+        "description": "Create Main"
+    }
+}
